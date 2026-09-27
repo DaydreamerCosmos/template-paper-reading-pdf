@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文模板精读 PDF"
+  short_description: "按精读模板阅读论文，逐项核对原文证据并生成独立无水印 PDF"
+  default_prompt: "使用 $template-paper-reading-pdf 按模板精读这篇论文，注明假设出处和实验结论，生成无水印 PDF。"
