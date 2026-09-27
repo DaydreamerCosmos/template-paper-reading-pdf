@@ -5,3 +5,13 @@ work/
 output/
 tmp/
 .env
+
+# Keep source papers, personal templates, and reading outputs out of this repository.
+*.pdf
+*.docx
+*.doc
+*.pptx
+papers/
+notes/
+personal/
+sources/
